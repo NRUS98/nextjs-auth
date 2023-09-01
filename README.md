@@ -8,4 +8,4 @@
 - **/change-password** - смена пароля пользователя через [form server actions](https://nextjs.org/docs/app/api-reference/functions/server-actions#with-client-components)
 
 
-<img width="500"  src="https://imageup.ru/img259/4505358/screenshot_1.png" border="0" alt="direct link image hosting">
+<img width="550"  src="https://imageup.ru/img259/4505358/screenshot_1.png" border="0" alt="direct link image hosting">
