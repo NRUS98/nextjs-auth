@@ -1,0 +1,28 @@
+.main {
+  margin-bottom: 20px;
+  z-index: 2;
+
+  .logout-button {
+    color: #ffffff;
+  }
+
+  .toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .links {
+    display: grid;
+    grid-auto-flow: column;
+    grid-column-gap: 10px;
+
+    .link_active {
+      border-bottom: 2px solid #ffffff;
+    }
+
+    a {
+      color: #ffffff;
+    }
+  }
+}

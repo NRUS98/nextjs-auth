@@ -1,0 +1,21 @@
+.main {
+  display: grid;
+  grid-row-gap: 20px;
+  justify-content: center;
+  padding-bottom: 20px;
+
+  .link {
+    display: block;
+    color: black;
+    transition: color 0.1s;
+    width: fit-content;
+
+    &:hover {
+      color: #0000008f;
+    }
+
+    &::before {
+        content: '• ';
+    }
+  }
+}
